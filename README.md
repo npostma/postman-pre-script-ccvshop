@@ -12,5 +12,3 @@ x-hash:{{x-hash}}
 x-public:{{x-public}}
 ```
 
-## Todo:
-POST/PUT/PATCH support.
